@@ -11,7 +11,8 @@ class CrosswordApp {
   // Fetch JSON data asynchronously
   async loadPuzzleData() {
     try {
-      const response = await fetch('./crossword.json');
+      const url = (typeof import.meta !== 'undefined' && import.meta.env && import.meta.env.BASE_URL) ? (import.meta.env.BASE_URL + 'crossword.json') : 'crossword.json';
+      const response = await fetch(url);
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
