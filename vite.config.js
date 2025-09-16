@@ -1,10 +1,11 @@
 import { defineConfig } from 'vite';
 import { resolve } from 'path';
 
+
 export default defineConfig({
     // Use relative base so the built index.html loads assets relatively.
     // This is portable and works when serving dist from any root.
-    base: './',
+    base: '/crossword-puzzle/',
 
     // public/ will be copied to dist/
     publicDir: 'public',
