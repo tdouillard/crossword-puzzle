@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🧩 Mots Fléchés — Jeu de mots</title>
+  <meta name="description" content="Jouez aux mots fléchés : remplissez les cases, vérifiez vos réponses et suivez votre progression.">
+  <link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="style.css">
+
+</head>
+<script type="module" src="script.js"></script>
+
+<body>
+  <div class="container">
+    <div class="header">
+      <h1>🧩 Votre Mot Fléché</h1>
+      <p>Remplissez les cases blanches - une lettre par case</p>
+    </div>
+    <div class="content">
+      <div class="controls">
+        <button class="btn secondary" onclick="checkCorrection()">✅ Vérifier les réponses</button>
+      </div>
+      <div class="status" id="status"></div>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progress" style="width: 0%">0%</div>
+      </div>
+      <div class="debug-info" id="debugInfo" style="display: none;"></div>
+      <div class="crossword-container">
+        <div class="grid-container">
+          <div class="crossword-grid" id="crosswordGrid"></div>
+        </div>
+      </div>
+    </div>
+    <!-- Tooltip element -->
+    <div class="tooltip" id="tooltip"></div>
+  </div>
+</body>
+
+</html>

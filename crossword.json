@@ -1,0 +1,554 @@
+{
+  "title": "Sample Daily Crossword",
+  "difficulty": "Easy",
+  "size": {
+    "x": 11,
+    "y": 10
+  },
+  "words": [
+    {
+      "clue": {
+        "value": "Particules élémentaires",
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "direction": "down",
+      "size": 6,
+      "position": {
+        "x": 0,
+        "y": 1
+      },
+      "answer": "QUARKS"
+    },
+    {
+      "clue": {
+        "value": "Moteur presque à explosions",
+        "position": {
+          "x": 0,
+          "y": 0
+        }
+      },
+      "direction": "across",
+      "size": 10,
+      "position": {
+        "x": 1,
+        "y": 0
+      },
+      "answer": "TURBOBOOST"
+    },
+    {
+      "clue": {
+        "value": "Se mit à l'abri (s'...)",
+        "position": {
+          "x": 0,
+          "y": 2
+        }
+      },
+      "direction": "down",
+      "size": 5,
+      "position": {
+        "x": 0,
+        "y": 3
+      },
+      "answer": "ABRIA"
+    },
+    {
+      "clue": {
+        "value": "Hémoglobine H",
+        "position": {
+          "x": 0,
+          "y": 4
+        }
+      },
+      "direction": "down",
+      "size": 3,
+      "position": {
+        "x": 0,
+        "y": 5
+      },
+      "answer": "HBH"
+    },
+    {
+      "clue": {
+        "value": "King king king",
+        "position": {
+          "x": 0,
+          "y": 6
+        }
+      },
+      "direction": "down",
+      "size": 4,
+      "position": {
+        "x": 0,
+        "y": 7
+      },
+      "answer": "DOMI"
+    },
+    {
+      "clue": {
+        "value": "Quand le piment pique trop",
+        "position": {
+          "x": 0,
+          "y": 6
+        }
+      },
+      "direction": "down",
+      "size": 4,
+      "position": {
+        "x": 1,
+        "y": 6
+      },
+      "answer": "OUIN"
+    },
+    {
+      "clue": {
+        "value": "Art déconstruit",
+        "position": {
+          "x": 0,
+          "y": 8
+        }
+      },
+      "direction": "down",
+      "size": 3,
+      "position": {
+        "x": 0,
+        "y": 9
+      },
+      "answer": "ATR"
+    },
+    {
+      "clue": {
+        "value": "Ca en fait des millions",
+        "position": {
+          "x": 0,
+          "y": 8
+        }
+      },
+      "direction": "down",
+      "size": 5,
+      "position": {
+        "x": 1,
+        "y": 8
+      },
+      "answer": "SEIZE"
+    },
+    {
+      "clue": {
+        "value": "Grande bringue sur le weekend",
+        "position": {
+          "x": 2,
+          "y": 0
+        }
+      },
+      "direction": "across",
+      "size": 5,
+      "position": {
+        "x": 3,
+        "y": 0
+      },
+      "answer": "ORGIE"
+    },
+    {
+      "clue": {
+        "value": "Défaillance numérique",
+        "position": {
+          "x": 2,
+          "y": 2
+        }
+      },
+      "direction": "down",
+      "size": 6,
+      "position": {
+        "x": 3,
+        "y": 2
+      },
+      "answer": "GLITCH"
+    },
+    {
+      "clue": {
+        "value": "A ne pas faire en entrant dans le ZEvent",
+        "position": {
+          "x": 2,
+          "y": 4
+        }
+      },
+      "direction": "across",
+      "size": 5,
+      "position": {
+        "x": 2,
+        "y": 5
+      },
+      "answer": "HUMER"
+    },
+    {
+      "clue": {
+        "value": "Répare sa faute",
+        "position": {
+          "x": 2,
+          "y": 4
+        }
+      },
+      "direction": "down",
+      "size": 5,
+      "position": {
+        "x": 3,
+        "y": 4
+      },
+      "answer": "EXPIE"
+    },
+    {
+      "clue": {
+        "value": "3 à Rome",
+        "position": {
+          "x": 3,
+          "y": 5
+        }
+      },
+      "direction": "across",
+      "size": 3,
+      "position": {
+        "x": 3,
+        "y": 6
+      },
+      "answer": "III"
+    },
+    {
+      "clue": {
+        "value": "Grand homme vert",
+        "position": {
+          "x": 3,
+          "y": 9
+        }
+      },
+      "direction": "down",
+      "size": 7,
+      "position": {
+        "x": 4,
+        "y": 9
+      },
+      "answer": "ZERATOR"
+    },
+    {
+      "clue": {
+        "value": "Des bars",
+        "position": {
+          "x": 4,
+          "y": 0
+        }
+      },
+      "direction": "across",
+      "size": 6,
+      "position": {
+        "x": 4,
+        "y": 1
+      },
+      "answer": "KLAXON"
+    },
+    {
+      "clue": {
+        "value": "Pas des bars",
+        "position": {
+          "x": 4,
+          "y": 0
+        }
+      },
+      "direction": "across",
+      "size": 3,
+      "position": {
+        "x": 5,
+        "y": 0
+      },
+      "answer": "PSI"
+    },
+    {
+      "clue": {
+        "value": "Après le ZEvent",
+        "position": {
+          "x": 4,
+          "y": 7
+        }
+      },
+      "direction": "across",
+      "size": 2,
+      "position": {
+        "x": 4,
+        "y": 8
+      },
+      "answer": "ZZ"
+    },
+    {
+      "clue": {
+        "value": "Lituanie",
+        "position": {
+          "x": 4,
+          "y": 7
+        }
+      },
+      "direction": "down",
+      "size": 2,
+      "position": {
+        "x": 5,
+        "y": 7
+      },
+      "answer": "LT"
+    },
+    {
+      "clue": {
+        "value": "Collectivité Suisse sans colosse",
+        "position": {
+          "x": 5,
+          "y": 3
+        }
+      },
+      "direction": "down",
+      "size": 5,
+      "position": {
+        "x": 6,
+        "y": 3
+      },
+      "answer": "RHODE"
+    },
+    {
+      "clue": {
+        "value": "Dépouilla",
+        "position": {
+          "x": 5,
+          "y": 5
+        }
+      },
+      "direction": "down",
+      "size": 5,
+      "position": {
+        "x": 6,
+        "y": 5
+      },
+      "answer": "PLUMA"
+    },
+    {
+      "clue": {
+        "value": "Jun-Fan dit Bruce",
+        "position": {
+          "x": 5,
+          "y": 6
+        }
+      },
+      "direction": "across",
+      "size": 3,
+      "position": {
+        "x": 5,
+        "y": 7
+      },
+      "answer": "LEE"
+    },
+    {
+      "clue": {
+        "value": "Juron québécois",
+        "position": {
+          "x": 5,
+          "y": 6
+        }
+      },
+      "direction": "down",
+      "size": 5,
+      "position": {
+        "x": 6,
+        "y": 6
+      },
+      "answer": "OSTIE"
+    },
+    {
+      "clue": {
+        "value": "S'activent en coulisse",
+        "position": {
+          "x": 6,
+          "y": 0
+        }
+      },
+      "direction": "across",
+      "size": 7,
+      "position": {
+        "x": 7,
+        "y": 0
+      },
+      "answer": "MICHELS"
+    },
+    {
+      "clue": {
+        "value": "On y joue",
+        "position": {
+          "x": 6,
+          "y": 1
+        }
+      },
+      "direction": "across",
+      "size": 6,
+      "position": {
+        "x": 6,
+        "y": 2
+      },
+      "answer": "TRIPOT"
+    },
+    {
+      "clue": {
+        "value": "S'est fait tej de VCT",
+        "position": {
+          "x": 6,
+          "y": 1
+        }
+      },
+      "direction": "down",
+      "size": 4,
+      "position": {
+        "x": 7,
+        "y": 1
+      },
+      "answer": "IBAI"
+    },
+    {
+      "clue": {
+        "value": "Va croissant sauf pour Benjamin",
+        "position": {
+          "x": 7,
+          "y": 8
+        }
+      },
+      "direction": "down",
+      "size": 3,
+      "position": {
+        "x": 8,
+        "y": 8
+      },
+      "answer": "AGE"
+    },
+    {
+      "clue": {
+        "value": "Butane hash oil",
+        "position": {
+          "x": 8,
+          "y": 0
+        }
+      },
+      "direction": "across",
+      "size": 3,
+      "position": {
+        "x": 8,
+        "y": 1
+      },
+      "answer": "BHO"
+    },
+    {
+      "clue": {
+        "value": "Identité visuelle",
+        "position": {
+          "x": 8,
+          "y": 0
+        }
+      },
+      "direction": "across",
+      "size": 2,
+      "position": {
+        "x": 9,
+        "y": 0
+      },
+      "answer": "DA"
+    },
+    {
+      "clue": {
+        "value": "Entrée de gamme",
+        "position": {
+          "x": 8,
+          "y": 4
+        }
+      },
+      "direction": "across",
+      "size": 2,
+      "position": {
+        "x": 8,
+        "y": 5
+      },
+      "answer": "UT"
+    },
+    {
+      "clue": {
+        "value": "Accident du travail",
+        "position": {
+          "x": 8,
+          "y": 7
+        }
+      },
+      "direction": "across",
+      "size": 2,
+      "position": {
+        "x": 8,
+        "y": 8
+      },
+      "answer": "AT"
+    },
+    {
+      "clue": {
+        "value": "Nouvelle République",
+        "position": {
+          "x": 8,
+          "y": 7
+        }
+      },
+      "direction": "down",
+      "size": 2,
+      "position": {
+        "x": 9,
+        "y": 7
+      },
+      "answer": "NR"
+    },
+    {
+      "clue": {
+        "value": "Avant le lundi dans le sud",
+        "position": {
+          "x": 9,
+          "y": 2
+        }
+      },
+      "direction": "across",
+      "size": 7,
+      "position": {
+        "x": 9,
+        "y": 3
+      },
+      "answer": "DOMINGO"
+    },
+    {
+      "clue": {
+        "value": "Terre isolée",
+        "position": {
+          "x": 10,
+          "y": 0
+        }
+      },
+      "direction": "across",
+      "size": 3,
+      "position": {
+        "x": 10,
+        "y": 1
+      },
+      "answer": "ILE"
+    },
+    {
+      "clue": {
+        "value": "Rendre respirable",
+        "position": {
+          "x": 10,
+          "y": 4
+        }
+      },
+      "direction": "across",
+      "size": 5,
+      "position": {
+        "x": 10,
+        "y": 5
+      },
+      "answer": "AERER"
+    }
+  ]
+}
