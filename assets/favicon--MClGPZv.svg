@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="64" height="64" role="img" aria-label="Crossword icon">
+  <rect width="24" height="24" rx="4" fill="#ffffff" stroke="#222" stroke-width="0.5"/>
+  <!-- 3x3 crossword-like grid -->
+  <g transform="translate(3,3)">
+    <rect x="0" y="0" width="6" height="6" fill="#111"/>
+    <rect x="6" y="0" width="6" height="6" fill="#fff" stroke="#111"/>
+    <rect x="12" y="0" width="6" height="6" fill="#fff" stroke="#111"/>
+
+    <rect x="0" y="6" width="6" height="6" fill="#fff" stroke="#111"/>
+    <rect x="6" y="6" width="6" height="6" fill="#fff" stroke="#111"/>
+    <rect x="12" y="6" width="6" height="6" fill="#111"/>
+
+    <rect x="0" y="12" width="6" height="6" fill="#fff" stroke="#111"/>
+    <rect x="6" y="12" width="6" height="6" fill="#111"/>
+    <rect x="12" y="12" width="6" height="6" fill="#fff" stroke="#111"/>
+  </g>
+</svg>
